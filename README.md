@@ -18,7 +18,7 @@
     <div class="social-media-section">
         <h3>Connect with me:</h3>
         <p >
-         <a href="https://www.instagram.com/ramvj_1203" target="blank">
+         <a href="https://www.instagram.com/ram_vj1203" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
          </a>
         </p>
