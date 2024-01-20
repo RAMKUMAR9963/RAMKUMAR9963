@@ -27,13 +27,13 @@
         <h3 align="left">Languages :</h3>
         <p aligh="left">
          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://i.postimg.cc/0QVm2B03/python.png" alt="html5" width="40" height="40"/> 
+            <img src="https://i.postimg.cc/0QVm2B03/python.png" alt="Python" width="40" height="40"/> 
          </a>
          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-            <img src="https://i.postimg.cc/VNqsR0SW/Java-Logo.png" alt="css3" width="40" height="40"/> 
+            <img src="https://i.postimg.cc/VNqsR0SW/Java-Logo.png" alt="Java" width="40" height="40"/> 
          </a>
          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+             <img src="https://i.postimg.cc/m2gwWQBh/c.png" alt="C" width="40" height="40"/> 
          </a>
         </p>
     </div>
