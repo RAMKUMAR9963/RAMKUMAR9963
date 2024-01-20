@@ -22,7 +22,7 @@
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
          </a>
             <a href="https://www.linkedin.com/in/ramkumar-somesthree-932263199/" target="blank">
-            <img align="center" src="https://app.gemoo.com/share/image-annotation/607354640555184128?codeId=PYarkL0jB9k8O&origin=imageurlgenerator&card=607354636742561792" alt="LinkedIn" height="30" width="40" />
+            <img align="center" src="https://i.postimg.cc/rmpKy6Nr/download.png" alt="LinkedIn" height="30" width="40" />
          </a>
         </p>
     </div>
