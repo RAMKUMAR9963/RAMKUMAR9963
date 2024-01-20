@@ -1,12 +1,12 @@
 <div class="header-section" style="height:10%;width: 100%;text-align: center;" align="center">
     <h1 >Hi 👋, I'm Ramkumar Somesthree</h1>
-    <h3 >A passionate Fullstack developer from India</h3>
+    <h3 >A passionate Python developer from India</h3>
 </div>
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
-    <h3> 🌱 I’m currently learning **Javascript, React** </h3>
-    <h3> 💬 Ask me about **HTML , CSS,Django**
+    <h3> 🌱 I’m currently learning **Python with frame works(streamlit, Flask)** </h3>
+    <h3> 💬 Ask me about **HTML , CSS, Flask, Streamlit**
     </h3>
     <h3> 📫 How to reach me **ramkumarsomesthree1203@gmail.com**</h3>
  </div>
