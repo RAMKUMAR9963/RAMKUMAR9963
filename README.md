@@ -26,13 +26,13 @@
     <div class="language-section">
         <h3 align="left">Languages :</h3>
         <p aligh="left">
-         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
             <img src="https://i.postimg.cc/0QVm2B03/python.png" alt="Python" width="40" height="40"/> 
          </a>
-         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
             <img src="https://i.postimg.cc/VNqsR0SW/Java-Logo.png" alt="Java" width="40" height="40"/> 
          </a>
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+         <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
              <img src="https://i.postimg.cc/m2gwWQBh/c.png" alt="C" width="40" height="40"/> 
          </a>
         </p>
@@ -40,14 +40,11 @@
     <div class="framework-section">
         <h3>Frameworks :</h3>
         <p >
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" >
-                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+            <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer" >
+                 <img src="https://i.postimg.cc/cCXP40v3/flask-logo-icon.webp" alt="Flask" width="40" height="40"/> 
             </a> 
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-            </a>
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="react" width="60" height="40"/> 
+            <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+                <img src="https://i.postimg.cc/SNjMr4Wt/streamlit.png" alt="Streamlit" width="40" height="40"/> 
             </a>
         </p>
     </div>
